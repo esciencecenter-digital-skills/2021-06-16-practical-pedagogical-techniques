@@ -15,6 +15,6 @@ In this workshop, we will tackle pedagogical techniques that can help you improv
 
 ## Content
 The workshop consists of three independent modules
-1. Incluseive language (slides, handout) 
-2. Formative assesment (slides)
-3. Use of Sotrytelling and Humour (slides)
+1. Inclusive language (Teaching material, handout) 
+2. Formative assesment (Slides)
+3. Use of Sotrytelling and Humour (Slides)
